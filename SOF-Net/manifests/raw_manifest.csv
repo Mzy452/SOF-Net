@@ -1,0 +1,4 @@
+sample_id,split,optical,sar,prior,quality,mask,boxes,selection,x,y
+sample_001,train,Real Filepath,Real Filepath,Real Filepath,Real Filepath,Real Filepath,Real Filepath,grid,,
+sample_002,validation,Real Filepath,Real Filepath,Real Filepath,Real Filepath,Real Filepath,Real Filepath,grid,,
+sample_003,test,Real Filepath,Real Filepath,Real Filepath,Real Filepath,Real Filepath,Real Filepath,prior,,
