@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the associated manuscript.
+title: SOF-Net
+type: software
+version: 0.1.0
+date-released: 2026-08-27
+authors:
+  - family-names: Xing
+    given-names: Yuchi
+  - family-names: Han
+    given-names: Ge
+  - family-names: Mao
+    given-names: Huiqin
+  - family-names: He
+    given-names: Hu
+  - family-names: Liu
+    given-names: Quan
+  - family-names: Ma
+    given-names: Xin
+  - family-names: Li
+    given-names: Siwei
+  - family-names: Gong
+    given-names: Wei
+preferred-citation:
+  type: article
+  title: "SOF-Net: SAR-prior-guided optical fusion network for offshore oil and gas infrastructure mapping and component-level interpretation"
+  authors:
+    - family-names: Xing
+      given-names: Yuchi
+    - family-names: Han
+      given-names: Ge
+    - family-names: Mao
+      given-names: Huiqin
+    - family-names: He
+      given-names: Hu
+    - family-names: Liu
+      given-names: Quan
+    - family-names: Ma
+      given-names: Xin
+    - family-names: Li
+      given-names: Siwei
+    - family-names: Gong
+      given-names: Wei
+  year: 2026
